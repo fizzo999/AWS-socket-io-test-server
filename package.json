@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index-sockets.js"
+     "start": "node index-sockets.js"
   },
   "keywords": [],
   "author": "",
